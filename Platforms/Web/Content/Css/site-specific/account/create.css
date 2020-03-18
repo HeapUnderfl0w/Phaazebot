@@ -1,0 +1,13 @@
+#register_space {
+  padding: 1em;
+}
+main h1 {
+  margin: 1em 0;
+}
+#register_space [type=submit] {
+  margin-top: 2em;
+}
+#register_space [name=password],
+#register_space [name=password2] {
+  margin-left: 0.5em;
+}
